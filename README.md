@@ -4,7 +4,7 @@ Site colaborativo de perfis pessoais feito em HTML e CSS.
 
 ## Visualizar o site
 
-[phc-silva.github.io/collab-profiles](https://melox-dev.github.io/collab-profiles/)
+[melox-dev.github.io/collab-profiles](https://melox-dev.github.io/collab-profiles/)
 
 ## Sobre o projeto
 
