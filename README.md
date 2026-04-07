@@ -25,5 +25,6 @@ Site com cards de perfil personalizados para cada integrante, contendo foto, bio
 
 ## Integrantes
 
-- [Cauã Melo](https://www.instagram.com/mellozxi_/)
-- [Pedro Henrique](https://www.instagram.com/henriqyxr_/)
+- [Cauã Melo](https://github.com/melox-dev)
+- [Pedro Henrique](https://github.com/phc-silva)
+- [Thiago Rodrigues](https://github.com/Togih)
